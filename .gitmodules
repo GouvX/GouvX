@@ -1,9 +1,9 @@
 [submodule "gouvx-api"]
 	path = gouvx-api
-	url = ./gouvx-api/
+	url = https://github.com/GouvX/gouvx-api
 [submodule "gouvx-crawler"]
 	path = gouvx-crawler
-	url = ./gouvx-crawler/
+	url = https://github.com/GouvX/gouvx-crawler
 [submodule "gouvx-front"]
 	path = gouvx-front
-	url = ./gouvx-front/
+	url = https://github.com/GouvX/gouvx.github.io
