@@ -1,0 +1,9 @@
+[submodule "gouvx-api"]
+	path = gouvx-api
+	url = ./gouvx-api/
+[submodule "gouvx-crawler"]
+	path = gouvx-crawler
+	url = ./gouvx-crawler/
+[submodule "gouvx-front"]
+	path = gouvx-front
+	url = ./gouvx-front/
